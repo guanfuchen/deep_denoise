@@ -10,8 +10,17 @@
 ---
 ### 论文资料
 
-- Deep Learning for Image Denoising: A Survey
+- Deep Learning for Image Denoising: A Survey，较为浅显的图像去噪综述。
+- A non-local algorithm for image denoising
+- Efficient Belief Propagation with Learned Higher-order Markov Random Fields
+- Kernel-Predicting Convolutional Networks for Denoising Monte Carlo Renderings
+- Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering
+- Block-Matching Convolutional Neural Network for Image Denoising
+- Correction by Projection: Denoising Images with Generative Adversarial Networks
+- Deep convolutional networks with residual learning for accurate spectral-spatial denoising
+- Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising
+- Dilated Deep Residual Network for Image Denoising
 - ...
 
-
+![](http://chenguanfuqq.gitee.io/tuquan2/img_2018_5/image_denoise.png)
 
