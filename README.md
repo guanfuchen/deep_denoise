@@ -20,6 +20,8 @@
 - Deep convolutional networks with residual learning for accurate spectral-spatial denoising
 - Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising
 - Dilated Deep Residual Network for Image Denoising
+- External Prior Guided Internal Prior Learning for Real-World Noisy Image Denoising
+- DN-ResNet: Efficient Deep Residual Network for Image Denoising
 - ...
 
 ![](http://chenguanfuqq.gitee.io/tuquan2/img_2018_5/image_denoise.png)
